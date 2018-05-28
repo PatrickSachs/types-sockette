@@ -3,13 +3,4 @@ types-sockette
 
 Typings for [Sockette](https://github.com/lukeed/sockette)
 
-Install
----
-
-Add the dependecy manually to your `package.json`.
-
-```
-"dependencies": {
-    "@types/sockette": "git+https://github.com/PatrickSachs/types-sockette.git"
-},
-```
+This repository is **obsolete**. Types have been merged into Sockette itself. Install Sockette, and you're good to go, no additional types needed! 🎉
